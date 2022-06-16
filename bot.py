@@ -377,7 +377,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/JoinOT).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/dubbedweb).",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -414,8 +414,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("📮 Support Group 📮", url="https://t.me/JoinOT"),
-                        InlineKeyboardButton("💡 Bots Channel 💡", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("📮 Support Group 📮", url="https://t.me/dubbedweb"),
+                        InlineKeyboardButton("💡 Bots Channel 💡", url="https://t.me/futurebackups")
                     ],
                     [
                         InlineKeyboardButton("⚡ About Bot ⚡", callback_data="aboutbot"),
