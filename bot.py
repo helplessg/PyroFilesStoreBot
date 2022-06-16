@@ -78,7 +78,7 @@ async def start(bot: Client, cmd: Message):
                     ],
                     [
                         InlineKeyboardButton("🔮About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("😈About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("⚠ dev Notice ⚠", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -323,7 +323,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("🏠 Go Home 🏠", callback_data="gotohome"),
-                        InlineKeyboardButton("🔮 About Dev 🔮", callback_data="aboutdevs")
+                        InlineKeyboardButton("⚠ dev Notice ⚠ ", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -361,7 +361,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("⚡ About Bot ⚡", callback_data="aboutbot"),
-                        InlineKeyboardButton("😈 About Dev 😈", callback_data="aboutdevs")
+                        InlineKeyboardButton("⚠ dev Notice ⚠", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -419,7 +419,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("⚡ About Bot ⚡", callback_data="aboutbot"),
-                        InlineKeyboardButton("😈 About Dev 😈", callback_data="aboutdevs")
+                        InlineKeyboardButton("⚠ dev Notice ⚠", callback_data="aboutdevs")
                     ]
                 ]
             )
