@@ -24,20 +24,20 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3](https://www.python.org)
+📝 **Language:** [Python3]
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📚 **Library:** [Pyrogram]
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📢 **Main channel:** [HD Dᴜʙ Hᴜʙ 4ᴜ](https://t.me/hddubhub4u)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @robo_glitch
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+👥 **Support Group:** [Movie Req Group](https://t.me/dubbedweb)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+😈 **Other Bots:** [Future Backups](https://t.me/futurebackups)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻**Notice from Developer:** @robo_glitch
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
