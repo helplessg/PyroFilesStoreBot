@@ -128,7 +128,7 @@ async def main(bot: Client, message: Message):
             return
 
         await message.reply_text(
-            text="**😈 ᴡʜᴀᴛ ɪs ɪᴛ ʏᴏᴜ ᴛʀᴜʟʏ ᴅᴇsɪʀᴇᴅ 😈:**",
+            text="**😈 ᴡʜᴀᴛ ɪs ɪᴛ ʏᴏᴜ ᴛʀᴜʟʏ ᴅᴇsɪʀᴇᴅ 😈**",
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("📁 Save in Batch 🗂", callback_data="addToBatchTrue")],
                 [InlineKeyboardButton("🔗 Get Sharable Link 🔗", callback_data="addToBatchFalse")]
@@ -390,7 +390,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+                                InlineKeyboardButton("🤖 Join Updates Channel 🙂", url=invite_link.invite_link)
                             ],
                             [
                                 InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
