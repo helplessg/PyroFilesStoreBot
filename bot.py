@@ -356,7 +356,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("📮Support Group", url="https://t.me/dubbedweb,
+                        InlineKeyboardButton("📮Support Group", url="https://t.me/dubbedweb"), 
                         InlineKeyboardButton("⚡Bots Channel", url="https://t.me/futurebackups")
                     ],
                     [
