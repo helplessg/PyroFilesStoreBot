@@ -37,7 +37,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 😈 **Other Bots:** [Future Backups](https://t.me/futurebackups)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻**Notice from Developer:** @robo_glitch
+🧑🏻‍💻**Notice from Developer: @robo_glitch**
 
 ᴛʜɪs ɪs ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ.
 
@@ -48,9 +48,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 ❤ ʙᴇɴᴇꜰɪᴛs: ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ ᴏʀ ᴀɴʏ ᴄᴏᴘʏʀɪɢʜᴛ ᴄʜᴀɴɴᴇʟ, ᴛʜᴇɴ ɪᴛs ᴜsᴇꜰᴜʟ ꜰᴏʀ ᴅᴀɪʟʏ ᴜsᴀɢᴇ, ʏᴏᴜ ᴄᴀɴ sᴇɴᴅ ᴍᴇ ʏᴏᴜʀ ꜰɪʟᴇ & ɪ ᴡɪʟʟ sᴇɴᴅ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴛᴏ ʏᴏᴜ & ᴄʜᴀɴɴᴇʟ ᴡɪʟʟ ʙᴇ sᴀꜰᴇ ꜰʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪɴꜰʀɪɴɢᴇᴍᴇɴᴛ ɪssᴜᴇ. ɪ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀʟsᴏ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ᴀʙᴏᴜᴛ ʙᴏᴛ.
 
 ⚠ ᴘᴏʀɴᴏɢʀᴀᴘʜʏ ᴄᴏɴᴛᴇɴᴛs ᴀʀᴇ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ & ɢᴇᴛ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+ᴀʟsᴏ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡɪʟʟ ᴅᴇʟᴇᴛᴇ ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛs ꜰʀᴏᴍ ᴅᴀᴛᴀʙᴀsᴇ. sᴏ ʙᴇᴛᴛᴇʀ ᴅᴏɴ'ᴛ sᴛᴏʀᴇ ᴛʜᴏsᴇ ᴋɪɴᴅ ᴏꜰ ᴛʜɪɴɢs 🙂
 
-[Donate Now](https://t.me/robo_glitch) (Paytm)
+[Donate Me 💰](https://t.me/robo_glitch) (❤ Any Amount ❤)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
